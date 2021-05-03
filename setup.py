@@ -13,6 +13,8 @@ import io
 import os
 import re
 
+questa e' una prova
+
 try:
     from setuptools import setup
 except ImportError:
